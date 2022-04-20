@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](C:\Users\HP\Desktop\deneme\html)
+![Lorem Picsum](C:\Users\HP\Desktop\deneme\html)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
