@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](https://github.com/Mhsnarsln09/kodluyoruzilkrepo)
+![](C:\Users\HP\Desktop\deneme\html)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
