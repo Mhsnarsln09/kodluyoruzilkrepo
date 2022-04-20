@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
 ![Lorem Picsum](image/Ads%C4%B1z.jpg)
 
 # Installation
