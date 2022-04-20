@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Lorem Picsum](C:\Users\HP\Desktop\deneme\html)
+![Lorem Picsum](https://github.com/Mhsnarsln09/kodluyoruzilkrepo)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
